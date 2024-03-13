@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ganga Srinivas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
